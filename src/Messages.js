@@ -390,6 +390,9 @@ class Messages
   get monday_short() {
     return chrome.i18n.getMessage('monday_short', []);
   }
+  get motivation() {
+    return chrome.i18n.getMessage('motivation', []);
+  }
   get music_box() {
     return chrome.i18n.getMessage('music_box', []);
   }

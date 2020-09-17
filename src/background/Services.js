@@ -174,6 +174,10 @@ class OptionsService extends Service
   async showFeedbackPage() {
     return await this.showPage('feedback');
   }
+
+  async showMotivationPage() {
+    return await this.showPage('motivation');
+  }
 }
 
 const SettingsClient = SettingsService.proxy;

@@ -10,6 +10,7 @@
           <router-link :to="{ name: 'settings' }">{{ M.settings }}</router-link>
           <router-link :to="{ name: 'history' }">{{ M.history }}</router-link>
           <router-link :to="{ name: 'feedback' }">{{ M.feedback }}</router-link>
+          <router-link :to="{ name: 'motivation' }">{{ M.motivation }}</router-link>
         </div>
       </div>
     </div>

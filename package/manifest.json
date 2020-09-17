@@ -15,7 +15,7 @@
     "notifications"
   ],
   "browser_action": {
-    "default_title": "Marinara",
+    "default_title": "Thakkali",
     "default_icon": "images/browser-action.png"
   },
   "background": {

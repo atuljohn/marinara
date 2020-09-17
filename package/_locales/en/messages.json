@@ -1,10 +1,10 @@
 {
   "app_name": {
-    "message": "Marinara: Pomodoro® Assistant",
+    "message": "Thakkali: Pomodoro® Assistant",
     "description": "The name of the application. Shown in the web store."
   },
   "app_name_short": {
-    "message": "Marinara",
+    "message": "Thakkali",
     "description": "The short name of the application. Shown at the top of the dropdown menu."
   },
   "app_desc": {
@@ -17,7 +17,7 @@
   },
   "pomodoro_assistant": {
     "message": "Pomodoro Assistant",
-    "description": "Marinara title tagline. Shown on the settings-feedback page."
+    "description": "Thakkali title tagline. Shown on the settings-feedback page."
   },
   "start_pomodoro_cycle": {
     "message": "Start Pomodoro Cycle",
@@ -86,7 +86,7 @@
     }
   },
   "marinara_pomodoro_assistant": {
-    "message": "Marinara: Pomodoro Assistant",
+    "message": "Thakkali: Pomodoro Assistant",
     "description": "Settings page title."
   },
   "settings": {
@@ -100,6 +100,10 @@
   "feedback": {
     "message": "Feedback",
     "description": "Feedback tab and section header. Shown on the settings page."
+  },
+  "motivation": {
+    "message": "Motivation",
+    "description": "Motivation tab and section header. Shown on the settings page."
   },
   "focus": {
     "message": "Focus",
